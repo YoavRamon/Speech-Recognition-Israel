@@ -7,6 +7,12 @@ The repository for Speech Recognition Israel meetup group. It is ued to material
 
 ## Meetups Agenda
 ### First meetup
-1. **Yoav Ramon - Diarization in practice.** [Presentation]
-2. **Daniel Niskhizov - X-Vectors, A modern approach to vectorize speaker identity.** [Presentation]
-3. **Roman Himmelreich - Text Alignment.** [Presentation]
+1. **Yoav Ramon - Diarization in practice.**
+[[Presentation]](Presentations/Meetup_1/Diarization%20in%20Practice.pptx) 
+[[PDF]](Presentations/Meetup_1/Diarization%20in%20Practice.pdf)
+2. **Daniel Niskhizov - X-Vectors, A modern approach to vectorize speaker identity.**
+[[Presentation]](Presentations/Meetup_1/X-Vector%20embedding.pptx) 
+[[PDF]](Presentations/Meetup_1/X-Vector%20embedding.pdf)
+3. **Roman Himmelreich - Text Alignment.**
+[[Presentation]](Presentations/Meetup_1) 
+[[PDF]](Presentations/Meetup_1)
