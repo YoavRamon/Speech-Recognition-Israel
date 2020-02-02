@@ -16,3 +16,11 @@ The repository for Speech Recognition Israel meetup group. It is ued to material
 3. **Roman Himmelreich - Text Alignment.**
 [[Presentation]](Presentations/Meetup_1) 
 [[PDF]](Presentations/Meetup_1)
+### Second meetup
+1. **Prof. Dan Povey - The future of Kaldi and speech recognition**
+[Sadly wasn't recroded]
+### Third meetup
+1. **Prof. Sanjeev Khudanpur - Two Ideas for Improving ASR: One Elegant, and One Very Useful!**
+[[Lecture record]](https://www.youtube.com/watch?v=BXUiAfxBTcM)
+2. **Prof. Yossi Keshet - Speech Applications in the Land of Adversity: Attacks, Detection, and Beyond**
+[[Lecture record]](https://www.youtube.com/watch?v=I3pT14VV4VQ)
