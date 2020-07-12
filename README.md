@@ -24,3 +24,13 @@ The repository for Speech Recognition Israel meetup group. It is ued to material
 [[Lecture record]](https://www.youtube.com/watch?v=BXUiAfxBTcM)
 2. **Prof. Yossi Keshet - Speech Applications in the Land of Adversity: Attacks, Detection, and Beyond**
 [[Lecture record]](https://www.youtube.com/watch?v=I3pT14VV4VQ)
+
+### Fourth meetup
+1. **Assaf Mushkin - Wav2Letter - Implementing an open source E2E ASR in Pytorch**
+[[Lecture record]](https://youtu.be/GjsmnVmTOI8)
+[[Presentation]](Presentations/Meetup_4/Speech%20Meetup%20-%20Wav2letter%20pytorch%20-%20split.pptx)
+[[PDF]](Presentations/Meetup_4/Speech%20Meetup%20-%20Wav2letter%20pytorch%20-%20split.pdf)
+2. **Amir Ivry - Real-time residual echo suppression with deep learning**
+[[Lecture record]](https://youtu.be/t3hkTk4UoWE)
+[[Presentation]](Presentations/Meetup_4/Amir%20Ivry%20-%20Real%20Time%20Residual%20Echo%20Suppression.pptx)
+[[Audio Examples]](Presentations/Meetup_4/Audio%20Examples.zip)
